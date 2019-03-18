@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "name": "moltin-talk-gatsby",
+  "alias": "moltin-talk-gatsby",
+  "builds": [
+    {
+      "src": "deck/package.json",
+      "use": "@now/static-build"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/main.js",
+      "dest": "/deck/main.js"
+    },
+    {
+      "src": "/images/(.*)",
+      "dest": "/deck/images/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/deck/index.html"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "mdx-deck build deck.mdx",
+    "now-build": "yarn build && cp -r images dist/",
+    "start": "mdx-deck deck.mdx"
+  },
+  "author": "Jonathan Steele <jonathan@steele.pro> (https://steele.pro/)",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^2.0.0"
+  }
+}
