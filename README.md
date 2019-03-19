@@ -1,10 +1,8 @@
-# Gatsby ⨯ Moltin
+# Blazing fast Moltin sites with Gatsby.js
 
-> 📣 Gatsby lightning talk at Moltin
+> 📣 Gatsby talk at Moltin from March 2019
 
-## Deck
-
-Deck available [here](https://moltin-talk-gatsby.now.sh).
+🎞 [**Deck**](https://moltin-talk-gatsby.now.sh) • 🎥 [**Video**](https://youtu.be/TnZ6ePs_BYU)
 
 ## Resources
 
