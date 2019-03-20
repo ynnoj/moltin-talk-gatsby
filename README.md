@@ -2,6 +2,10 @@
 
 > 📣 Gatsby talk at Moltin from March 2019
 
+## Description
+
+Utilising [Gatsby](https://www.gatsbyjs.org) to deliver blazing fast [Moltin](https://moltin.com) sites.
+
 🎞 [**Deck**](https://moltin-talk-gatsby.now.sh) • 🎥 [**Video**](https://youtu.be/TnZ6ePs_BYU)
 
 ## Resources
